@@ -1,0 +1,173 @@
+# Blender MTL File: 'cryoRoom4.blend'
+# Material Count: 14
+
+newmtl Material
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\scuffed-plastic-1-bl\\scuffed-plastic-1-bl\\scuffed-plastic-normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\scuffed-plastic-1-bl\\scuffed-plastic-1-bl\\scuffed-plastic4-alb.png
+
+newmtl Material.001
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\Users\\Gekk\\Downloads\\synth-rubber-bl\\synth-rubber-bl\\synth-rubber-normal.png
+map_Kd E:\\Users\\Gekk\\Downloads\\synth-rubber-bl\\synth-rubber-bl\\synth-rubber-albedo.png
+
+newmtl Material.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\iron-rusted4-bl\\iron-rusted4-bl\\iron-rusted4-normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\iron-rusted_sp1-basecolor.png
+
+newmtl Material.003
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\greasy-metal-pan1-bl\\greasy-metal-pan1-bl\\greasy-metal-pan1-normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\greasy-metal-pan1-bl\\greasy-metal-pan1-bl\\greasy-metal-pan1-albedo.png
+
+newmtl Material.004
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\metalgrid3-bl\\metalgrid3-bl\\metalgrid3_normal-ogl.png
+map_Kd e:\\Users\\Gekk\\Downloads\\metalgrid3-bl\\metalgrid3-bl\\metalgrid3_basecolor.png
+map_Ks e:\\Users\\Gekk\\Downloads\\metalgrid3-bl\\metalgrid3-bl\\metalgrid3_AO.png
+
+newmtl Material.005
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\TexturesCom_Scifi_Floor4_1K_normal.tif
+map_Kd e:\\Users\\Gekk\\Downloads\\TexturesCom_Scifi_Floor4_1K_albedo.tif
+
+newmtl Material.006
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\storage-container2-bl\\storage-container2-bl\\storage-container2-normal-ogl.png
+map_Kd e:\\Users\\Gekk\\Downloads\\storage-container2-bl\\storage-container2-bl\\storage-container2-albedo.png
+map_Ks e:\\Users\\Gekk\\Downloads\\storage-container2-bl\\storage-container2-bl\\storage-container2-ao.png
+
+newmtl Material.007
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\chipped-paint-metal-bl\\chipped-paint-metal-bl\\chipped-paint-metal-normal-ogl.png
+map_Kd e:\\Users\\Gekk\\Downloads\\chipped-paint-metal-bl\\chipped-paint-metal-bl\\chipped-paint-metal-albedo.png
+map_Ks e:\\Users\\Gekk\\Downloads\\chipped-paint-metal-bl\\chipped-paint-metal-bl\\chipped-paint-metal-metal.png
+
+newmtl Material.008
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\TexturesCom_Plastic_Padded_1K_normal.tif
+map_Kd e:\\Users\\Gekk\\Downloads\\TexturesCom_Plastic_Padded_1K_albedo.tif
+
+newmtl Material.009
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\rustediron-streaks2-bl\\rustediron-streaks2-bl\\rustediron-streaks_normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\rustediron-streaks2-bl\\rustediron-streaks2-bl\\rustediron-streaks_basecolor.png
+
+newmtl Material.010
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\TexturesCom_Metal_Grid_1K_normal.tif
+map_Kd e:\\Users\\Gekk\\Downloads\\TexturesCom_Metal_Grid_1K_albedo.tif
+
+newmtl Material.011
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\iron-rusted4-bl\\iron-rusted4-bl\\iron-rusted4-normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\iron-rusted_sp2-basecolor.png
+
+newmtl Material.012
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\iron-rusted4-bl\\iron-rusted4-bl\\iron-rusted4-normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\iron-rusted_sp3-basecolor.png
+
+newmtl Material.013
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump e:\\Users\\Gekk\\Downloads\\iron-rusted4-bl\\iron-rusted4-bl\\iron-rusted4-normal.png
+map_Kd e:\\Users\\Gekk\\Downloads\\iron-rusted_sp4-basecolor.png

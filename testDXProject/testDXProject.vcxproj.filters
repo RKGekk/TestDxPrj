@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="FX">
+      <UniqueIdentifier>{2a0a3d00-c8d0-4eb0-b699-13ed08d8ac67}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{4a1a49b1-2630-45e0-a196-3ddfd4b58bc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{ff1bf9e4-b328-4fc6-94d0-b6569d2e79ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="color.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="Lighting.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="Basic.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="Basic32.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="Basic32BF.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="Blur.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="InstancedBasic32BF.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="Post.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="10.dds">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Sky.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="InstancedBasicMTR.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="sheep.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="sheep.obj">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="greasy-metal-pan1-albedo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="greasy-metal-pan1-normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="synth-rubber-albedo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="synth-rubber-normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_DecalsLeaking0208_1_masked_S.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_DecalsLeaking0208_2_S.jpg">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="cryo8.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="cryo8.obj">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="NormalMap.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="DisplacementMap.fx">
+      <Filter>FX</Filter>
+    </None>
+    <None Include="cryoRoom2.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="cryoRoom2.obj">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="chipped-paint-metal-albedo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="chipped-paint-metal-normal-ogl.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="metalgrid3_basecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="metalgrid3_normal-ogl.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="rustediron-streaks_basecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="rustediron-streaks_normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="scuffed-plastic-normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="scuffed-plastic4-alb.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="storage-container2-albedo.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="storage-container2-normal-ogl.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_Plastic_Padded_1K_normal.tif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_Plastic_Padded_1K_albedo.tif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_Metal_Grid_1K_normal.tif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_Metal_Grid_1K_albedo.tif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_Scifi_Floor4_1K_albedo.tif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="TexturesCom_Scifi_Floor4_1K_normal.tif">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iron-rusted_sp1-basecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iron-rusted_sp2-basecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iron-rusted_sp3-basecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iron-rusted_sp4-basecolor.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="iron-rusted4-normal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Text1.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="Text2.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="Text3.mtl">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="Text1.obj">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="Text3.obj">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="Text2.obj">
+      <Filter>Models</Filter>
+    </None>
+    <None Include="tlfn-rhino.mp3">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\Camera.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\d3dApp.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\d3dUtil.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\GameTimer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\GeometryGenerator.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\LightHelper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\MathHelper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\TextureMgr.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\Waves.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\xnacollision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Vertex.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Effects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RenderStates.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BlurFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Sky.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextUtil.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjLoader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common\Camera.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\d3dApp.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\d3dUtil.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\d3dx11effect.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\GameTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\GeometryGenerator.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\LightHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\MathHelper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\TextureMgr.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\Waves.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\xnacollision.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Vertex.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Effects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RenderStates.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BlurFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Sky.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TextUtil.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjLoader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
